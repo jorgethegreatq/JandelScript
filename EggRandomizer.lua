@@ -1,2 +1,2 @@
-loadstring(game:HttpGet('https://pastefy.app/UC0yTb2b/raw'))()
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/jorgethegreatq/JandelScript/refs/heads/main/Wahahahah')))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/jorgethegreatq/GrowaGarden/refs/heads/main/Delta'))()
+loadstring(game:HttpGet("https://pastefy.app/Z6cpqR9m/raw"))()
